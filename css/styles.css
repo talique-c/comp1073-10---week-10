@@ -28,7 +28,7 @@ header p {
 /* section styles */
 section {
 	display: flex;
-	justify-content: space-around;
+	justify-content: space-between;
 	gap: 15px;
 	margin-bottom: 5rem;
 }
