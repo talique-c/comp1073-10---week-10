@@ -36,6 +36,28 @@
         "candy sprinkles"
       ],
       "image": "strawberry-sprinkle.svg"
-    }
+    },
+    {
+      "name": "Pistachio Passion",
+      "calories": 300,
+      "type": "soft serve ice cream",
+      "ingredients": [
+        "pistachios",
+        "sugar glaze",
+        "nonpareils sprinkles"
+      ],
+      "image": "ice-cream-xtra1.svg"
+    },
+    {
+      "name": "Choco-Banana Bliss",
+      "calories": 450,
+      "type": "ice cream",
+      "ingredients": [
+        "mashed bananas",
+        "whole milk",
+        "chocolate chunks"
+      ],
+      "image": "ice-cream-xtra2.svg"
+    }  
   ]
 }
