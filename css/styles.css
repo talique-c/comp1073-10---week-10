@@ -28,8 +28,9 @@ header p {
 /* section styles */
 section {
 	display: flex;
-	justify-content: space-between;
-	gap: 15px;
+	flex-wrap: wrap;
+	justify-content: center;
+	gap: 5px;
 	margin-bottom: 5rem;
 }
 section article {
